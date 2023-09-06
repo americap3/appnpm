@@ -6,10 +6,6 @@ NPM (Node Package Manager) es el gestor de dependencias para Node.js. Fue creado
 
 1. Abrimos la carpeta "package_manager" en una terminal.
 
-```
-node index.js
-```
-
 2. Ahora, se escribe la siguiente ruta:
 
 ```
