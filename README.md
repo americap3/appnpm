@@ -33,7 +33,7 @@ ESLint es una herramienta de análisis de código estático para identificar pat
 ## Basado en:
 
 Clases Web Platforms
-** Docente: Ing. Luis Antonio Ramírez Martínez **
+**Docente: Ing. Luis Antonio Ramírez Martínez**
 
 ## Información
 
