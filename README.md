@@ -16,8 +16,11 @@ node index.js
 ./node_modules/.bin/eslint index.js
 ```
 --> Nos aparecerá el siguiente mensaje
+
+```
   12:5  warning  Identifier 'Hola_lint' is not in camel case     camelcase
   12:5  error    'Hola_lint' is assigned a value but never used  no-unused-vars
+```
 
 ESLint es una herramienta de análisis de código estático para identificar patrones problemáticos que se encuentran en el código JavaScript.
 
